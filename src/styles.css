@@ -1,0 +1,59 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #a0cfdc;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 35px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #e39702;
+}
+.click {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 6vh 0;
+}
+.click button {
+  cursor: pointer;
+  width: 20vw;
+  height: 8vh;
+  font-size: 16px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: white;
+  background-color: #00454b;
+}
+h2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10vh 0;
+  font-size: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #00454b;
+  color: white;
+  width: 60vw;
+}
+.loui {
+  width: 100%;
+}
+.phillip {
+  width: 100%;
+}
+.gucci {
+  width: 100%;
+}
+.katy {
+  width: 100%;
+}
+.eva {
+  width: 100%;
+}
+.imunizadoh {
+  width: 100%;
+}
